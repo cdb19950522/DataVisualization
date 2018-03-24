@@ -29,8 +29,6 @@ plt.xticks(y_pos, objects,rotation=40)
 plt.ylabel('Frequency')
 plt.title('eee')
 plt.subplots_adjust(bottom= 0.15, top = 0.9)
-for i in range(24):
-    plt.text()
 
  
 plt.show()
